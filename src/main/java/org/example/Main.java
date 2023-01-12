@@ -6,5 +6,8 @@ public class Main {
 
         //Modificación A
         System.out.println("A");
+
+        //Modificación B
+        System.out.println("B");
     }
 }
