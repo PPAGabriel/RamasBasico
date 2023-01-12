@@ -9,5 +9,8 @@ public class Main {
 
         //Modificación B
         System.out.println("B");
+
+        //Modificación C
+        System.out.println("C");
     }
 }
