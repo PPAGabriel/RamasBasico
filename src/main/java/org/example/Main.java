@@ -10,6 +10,12 @@ public class Main {
         //Modificación B
         System.out.println("B");
 
+        //Modificación C
+        System.out.println("C");
+
+        //Modificación D
+        System.out.println("D");
+
         //Modificación E
         System.out.println("E");
     }
